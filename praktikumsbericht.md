@@ -15,7 +15,11 @@ Mein Praktikumsbericht erster Tag
 
 ## wichtige git kommandos:
 
-* ***git add . - (alles ins paket rein.)***
-* ***git commit -m ( {name hier} ) - (verpacken und adressieren.)***
-* ***git push (paket verschicken.)***
-* ***git pull (pakete abholen.)***
+* ***git add .***
+  **(alles ins paket rein.)**
+* ***git commit -m ( {name hier} )***
+  **(verpacken und adressieren.)**
+* ***git push***
+  **(paket verschicken.)**
+* ***git pull***
+  **(pakete abholen.)**
