@@ -17,13 +17,15 @@ Mein Praktikumsbericht erster Tag
 
 * ***git add .***
 
-   (alles ins paket rein.)
+   alles ins paket rein.
 * ***git commit -m ( {name hier} )***
-   *(verpacken und adressieren.)*
 
+   verpacken und adressieren.
 * ***git push***
-   *(paket verschicken.)**
+
+   paket verschicken.
 * ***git pull***
-   *(pakete abholen.)*
+
+   pakete abholen.
 
 ![RickRoll](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555426693/shape/mentalfloss/rickrollheader.png "Never gonna give")
