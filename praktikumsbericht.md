@@ -1,6 +1,7 @@
 # Toplevel
 Mein Praktikumsbericht erster Tag
-##dinge die ich geschafft habe:
+
+## dinge die ich geschafft habe:
 
 * ich habe rausgefunden wie man laptops sperrt.(mit strg + alt + L)
 * ich habe git in der konsole installiert.(https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Git-installieren)
@@ -12,7 +13,7 @@ Mein Praktikumsbericht erster Tag
 * ich habe mario kart mit den kolegen gespielt.(ich bin 4.geworden.)
 
 
-##wichtige git kommandos:
+## wichtige git kommandos:
 
 git add . - (alles ins paket rein.)
 git commit -m ( {name hier} ) - (verpacken und adressieren.)
