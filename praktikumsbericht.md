@@ -25,4 +25,4 @@ Mein Praktikumsbericht erster Tag
    *(pakete abholen.)*
 
 
-  *http://pixelartmaker.com/art/5f0230a5bfd4959.png
+  *https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555426693/shape/mentalfloss/rickrollheader.png
