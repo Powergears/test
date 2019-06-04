@@ -28,4 +28,4 @@ Mein Praktikumsbericht erster Tag
 
    pakete abholen.
 
-![RickRoll](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555426693/shape/mentalfloss/rickrollheader.png "Never gonna give")
+![RickRoll](https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif"Never gonna give")
