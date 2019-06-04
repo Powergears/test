@@ -17,15 +17,15 @@ Mein Praktikumsbericht erster Tag
 
 * ***git add .***
 
-   alles ins paket rein.
+   **alles ins paket rein.**
 * ***git commit -m ( {name hier} )***
 
-   verpacken und adressieren.
+   **verpacken und adressieren.**
 * ***git push***
 
-   paket verschicken.
+   **paket verschicken.**
 * ***git pull***
 
-   pakete abholen.
+   **pakete abholen.**
 
 ![Loading...](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
