@@ -1,5 +1,5 @@
 
-***#agile Softwareentwicklung***
+# agile Softwareentwicklung
 **agiles Programmieren ist eine relativ neue Methode, die auf einer
 Verbesserungsphilosophie basiert, was bedeutet, das die Programmierer nur kleine schritte machen, um im Notfall, wenn sie zu anderen Projekten wechseln müssen, immer noch etwas vorzuweisen hat.
 Obendrein ist das agile programmieren mehr auf das Team gerichtet als die sogenannte Wasserfall-Programmierweise.
