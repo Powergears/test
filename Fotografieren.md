@@ -7,3 +7,4 @@
 
 ## perspektive
   niemals von unten sondern eher leicht von oben, um ,erstens, Makel zu verstecken, und ,zweitens, um unterbewusst weniger bedrohlich zu wirken
+## eigene Erfahrung
