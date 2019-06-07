@@ -1,1 +1,3 @@
-#Fotografieren
+# Fotografieren
+## licht
+gesicht voll ausleuchten
