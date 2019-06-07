@@ -11,4 +11,4 @@
    sehr positiv
    etwas frustrierend wegen Unerfahrung.
    schwer weil den umstehenden die im Bild standen
-   viele faktoren zum verstehen wie licht, umstehende, aufteilung, perspektive, 
+   viele faktoren zum verstehen wie licht, umstehende, aufteilung, perspektive, balance, und noch vieles mehr was ich nicht weiß, da ich nur ein laie bin.
