@@ -9,5 +9,6 @@
   niemals von unten sondern eher leicht von oben, um ,erstens, Makel zu verstecken, und ,zweitens, um unterbewusst weniger bedrohlich zu wirken
 ## eigene Erfahrung
    sehr positiv
-   etwas frustrierend wegen unerfahrung
-   
+   etwas frustrierend wegen Unerfahrung.
+   schwer weil den umstehenden die im Bild standen
+   viele faktoren zum verstehen wie licht, umstehende, aufteilung, perspektive, 
