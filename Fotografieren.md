@@ -1,14 +1,14 @@
 # Fotografieren
 ## licht
-  gesicht voll ausleuchten.
+  Gesicht voll ausleuchten.
 
 ## aufteilung
-  das Bild immaginär in 9 teile teilen, um den fokus auf wichtige dinge fokusieren zu können, wie das model, eine schöne aussicht etc.
+  das Bild imaginär in 9 teile teilen, um den Fokus auf wichtige Dinge Fokusieren zu können, wie das Model, eine schöne Aussicht etc.
 
 ## perspektive
   niemals von unten sondern eher leicht von oben, um ,erstens, Makel zu verstecken, und ,zweitens, um unterbewusst weniger bedrohlich zu wirken
 ## eigene Erfahrung
    sehr positiv
-   etwas frustrierend wegen Unerfahrung.
+   etwas frustrierend wegen Unerfahrenheit.
    schwer weil den umstehenden die im Bild standen
-   viele faktoren zum verstehen wie licht, umstehende, aufteilung, perspektive, balance, und noch vieles mehr was ich nicht weiß, da ich nur ein laie bin.
+   viele Faktoren zum beachten wie licht, umstehende, Aufteilung, Perspektive, Balance, und noch vieles mehr was ich nicht weiß, da ich nur ein Laie bin.
