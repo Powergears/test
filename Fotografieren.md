@@ -1,4 +1,4 @@
 # Fotografieren
 ## licht
 gesicht voll ausleuchten
-das bild immaginär in 9 teile teilen
+das bild immaginär in 9 teile teilen, um den fokus auf wichtige dinge fokusieren zu können
