@@ -12,4 +12,4 @@
  sehr positiv
  etwas frustrierend wegen Unerfahrenheit.
  schwer weil den umstehenden die im Bild standen
- viele Faktoren zum beachten wie licht, umstehende, Aufteilung,  Perspektive, Balance, und noch vieles mehr was ich nicht weiß, da ich nur ein Laie bin.
+ viele Faktoren zum beachten wie licht, umstehende, Aufteilung,  Perspektive, Balance, und noch vieles mehr was ich nicht weiß, da ich nur ein Laie bin. 
