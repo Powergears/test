@@ -8,7 +8,7 @@
 ## perspektive
  niemals von unten sondern eher leicht von oben, um ,erstens, Makel zu verstecken, und ,zweitens, um unterbewusst weniger bedrohlich zu wirken
 
-## eigene Erfahrung
+## eigen Erfahrung
  sehr positiv
  etwas frustrierend wegen Unerfahrenheit.
  schwer weil den umstehenden die im Bild standen
