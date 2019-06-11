@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+  <title>Blog &ndash; Layout Examples &ndash; Pure</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-" crossorigin="anonymous">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+  <!--<![endif]-->
+
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="css/layouts/blog-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="css/layouts/blog.css">
+  <!--<![endif]-->
+</head>
+<body>
+
+
+
+
+
+
+
+  <div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+      <div class="header">
+        <h1 class="brand-title">bens Blog</h1>
+        <h2 class="brand-tagline">Ein blog von und über mich, ben vollerthun</h2>
+
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item">
+              <a class="pure-button" href="http://purecss.io">Pure</a>
+            </li>
+            <li class="nav-item">
+              <a class="pure-button" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">interesting stuff</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+      <div>
+        <!-- A wrapper for all the blog posts -->
+        <div class="posts">
+          <h1 class="content-subhead">Pinned Post</h1>
+
+          <!-- meine begrüßung -->
+          <section class="post">
+            <header class="post-header">
+              <img width="48" height="48" alt="Tilo Mitra&#x27;s avatar" class="post-avatar" src="file:///home/mokugama/master/test/bensavatar.webp">
+
+              <h2 class="post-title">Über mich</h2>
+
+              <p class="post-meta">
+                von <a href="#" class="post-author">Ben vollerthun</a> mit <a class="post-category post-category-design" href="#">CSS</a> <a class="post-category post-category-pure" href="#">Pure</a>
+              </p>
+            </header>
+
+            <div class="post-description">
+              <p>
+                hallo ich probiere aus was ich schreiben kann. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">klick mich an.</a>.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+              </p>
+            </div>
+          </section>
+        </div>
+
+        <div class="posts">
+          <h1 class="content-subhead">Recent Posts</h1>
+
+          <section class="post">
+            <header class="post-header">
+              <img width="48" height="48" alt="Eric Ferraiuolo&#x27;s avatar" class="post-avatar" src="file:///home/mokugama/master/test/bensavatar.webp">
+
+              <h2 class="post-title">Welcher Passwortmanager ist der beste?</h2>
+
+              <p class="post-meta">
+                von <a class="post-author" href="#">Ben Vollerthun</a> mit <a class="post-category post-category-js" href="#">Markdown</a>
+              </p>
+            </header>
+
+            <div class="post-description">
+              <p>
+                <h1> Passwortmanager</h1>
+
+                Welcher Passwortmanager ist für mich der beste? Das finden wir hier raus.
+
+                <h2> Keepass </h2>
+                  Der erste Passwortmanager in der Diskussion ist KeePass, ein sehr beliebter Passwortmanager, der mit einer guten Leistung trotz Kostenlosigkeit besticht
+                  es gibt eine sehr gute Katalogisierung sowie einen guten Passwortgenerator, und ist allgemein einfach zu benutzen. obendrein hat es einen lokalen speicher.
+                  weniger gut ist, das man ein Generalpasswort braucht um rein zu kommen. obendrein sieht es sehr alt aus.
+                  noch dazu ist es nur auf englisch zu haben, denn die Umstellung ist kompliziert.die Sicherung der Passwortdateien muss selbstständig sichergestellt werden.<br>
+                  <br>
+                  <h2> dashlane </h2>
+                  Als nächstes steht Dashlane an. auch beliebt, wenn auch nicht so beliebt wie KeePass.
+                  Dieser Passwortmanager ist leicht verständlich und benutzerfreundlich und hat einen VPN Inklusiv und ermöglicht eine sehr leichte Passwort änderung und hat sogar einen Chat.
+                  allerdings verstecken sie andere sehr gute Features hinter einer Paywall, der Autofill ist sehr schwach und was meiner Meinung nach Ausschlag gebend ist,
+                  ist dass der deutsche Support nur per Email funktioniert und sogar dass nur langsam.<br>
+                    <br>
+                  <h2> lastpass </h2>
+                  Der letzte Passwortmanager über den ich schreiben werde ist last pass.
+                  last pass hat die pro Argumente eine Verlässliche Warnung bei doppelten Passwörtern zu haben, sowie eine passwortfreigabe für andere Nutzer, eine AES Verschlüsselung und einen Passwortgenerator.
+                  für mich wird das alles aber zunichte gemacht bei dem Fakt das es keinen Offline-Support gibt.<br>
+<br>
+                  Als Fazit sage ich das für mich persönlich KeePass der beste  Passwortmanager ist.
+
+                </p>
+              </div>
+            </section>
+
+            <section class="post">
+              <header class="post-header">
+                <img width="48" height="48" alt="Reid Burke&#x27;s avatar" class="post-avatar" src="file:///home/mokugama/master/test/bensavatar.webp">
+
+                <h2 class="post-title">Photos from CSSConf and JSConf</h2>
+
+                <p class="post-meta">
+                  Von <a class="post-author" href="#">Ben Vollerthun</a> mit <a class="post-category" href="#">Uncategorized</a>
+                </p>
+              </header>
+
+              <div class="post-description">
+                <div class="post-images pure-g">
+                  <div class="pure-u-1 pure-u-md-1-2">
+                    <a href="https://github.com/Powergears">
+                      <img alt="Photo of someone working poolside at a resort"
+                      class="pure-img-responsive"
+                      src="https://www.google.com/search?q=github+image&client=ubuntu&hs=yoz&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwje3Mvf_-DiAhVIZFAKHWyEDRgQ_AUIECgB&biw=1063&bih=1065#imgrc=Xqe6fzV_phJ2tM::">
+                    </a>
+
+                    <div class="post-image-meta">
+                      <h3>a Rare image of a Hacker</h3>
+                    </div>
+                  </div>
+
+                  <div class="pure-u-1 pure-u-md-1-2">
+                    <a href="http://www.flickr.com/photos/uberlife/8907351301/">
+                      <img alt="Photo of the sunset on the beach"
+                      class="pure-img-responsive"
+                      src="http://farm8.staticflickr.com/7382/8907351301_bd7460cffb.jpg">
+                    </a>
+
+                    <div class="post-image-meta">
+                      <h3>JSConf Photos</h3>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <section class="post">
+              <header class="post-header">
+                <img width="48" height="48" alt="Andrew Wooldridge&#x27;s avatar" class="post-avatar" src="img/common/andrew-avatar.png">
+
+                <h2 class="post-title">YUI 3.10.2 Released</h2>
+
+                <p class="post-meta">
+                  By <a class="post-author" href="#">Andrew Wooldridge</a> under <a class="post-category post-category-yui" href="#">YUI</a>
+                </p>
+              </header>
+
+              <div class="post-description">
+                <p>
+                  We are happy to announce the release of YUI 3.10.2! You can find it now on the Yahoo! CDN, download it directly, or pull it in via npm. We’ve also updated the YUI Library website with the latest documentation.
+                </p>
+              </div>
+            </section>
+          </div>
+
+          <div class="footer">
+            <div class="pure-menu pure-menu-horizontal">
+              <ul>
+                <li class="pure-menu-item"><a href="http://purecss.io/" class="pure-menu-link">About</a></li>
+                <li class="pure-menu-item"><a href="http://twitter.com/yuilibrary/" class="pure-menu-link">Twitter</a></li>
+                <li class="pure-menu-item"><a href="http://github.com/pure-css/pure/" class="pure-menu-link">GitHub</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </body>
+  </html>
